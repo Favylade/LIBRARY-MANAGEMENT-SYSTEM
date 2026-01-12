@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/LibraryBorrowingSystem/src/libraryborrowingsystem/Admin.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/LibraryBorrowingSystem/src/libraryborrowingsystem/Book.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/LibraryBorrowingSystem/src/libraryborrowingsystem/BookFX.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/LibraryBorrowingSystem/src/libraryborrowingsystem/BookManager.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/LibraryBorrowingSystem/src/libraryborrowingsystem/BorrowBookPage.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/LibraryBorrowingSystem/src/libraryborrowingsystem/Fine.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/LibraryBorrowingSystem/src/libraryborrowingsystem/LibraryApp.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/LibraryBorrowingSystem/src/libraryborrowingsystem/LibraryBorrowingSystem.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/LibraryBorrowingSystem/src/libraryborrowingsystem/LoginPage.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/LibraryBorrowingSystem/src/libraryborrowingsystem/Main.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/LibraryBorrowingSystem/src/libraryborrowingsystem/MainMenuPage.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/LibraryBorrowingSystem/src/libraryborrowingsystem/ReturnBookPage.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/LibraryBorrowingSystem/src/libraryborrowingsystem/SignUpPage.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/LibraryBorrowingSystem/src/libraryborrowingsystem/Sqlconnector.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/LibraryBorrowingSystem/src/libraryborrowingsystem/User.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/LibraryBorrowingSystem/src/libraryborrowingsystem/UserManager.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/LibraryBorrowingSystem/src/libraryborrowingsystem/ViewAvailableBooksPage.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/LibraryBorrowingSystem/src/libraryborrowingsystem/EmailService.java</file>
+        </group>
+    </open-files>
+</project-private>
